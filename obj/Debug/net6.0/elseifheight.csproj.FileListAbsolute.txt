@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\elseifheight\bin\Debug\net6.0\elseifheight.exe
+C:\Users\HP\source\repos\elseifheight\bin\Debug\net6.0\elseifheight.deps.json
+C:\Users\HP\source\repos\elseifheight\bin\Debug\net6.0\elseifheight.runtimeconfig.json
+C:\Users\HP\source\repos\elseifheight\bin\Debug\net6.0\elseifheight.dll
+C:\Users\HP\source\repos\elseifheight\bin\Debug\net6.0\elseifheight.pdb
+C:\Users\HP\source\repos\elseifheight\obj\Debug\net6.0\elseifheight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\elseifheight\obj\Debug\net6.0\elseifheight.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\elseifheight\obj\Debug\net6.0\elseifheight.AssemblyInfo.cs
+C:\Users\HP\source\repos\elseifheight\obj\Debug\net6.0\elseifheight.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\elseifheight\obj\Debug\net6.0\elseifheight.dll
+C:\Users\HP\source\repos\elseifheight\obj\Debug\net6.0\refint\elseifheight.dll
+C:\Users\HP\source\repos\elseifheight\obj\Debug\net6.0\elseifheight.pdb
+C:\Users\HP\source\repos\elseifheight\obj\Debug\net6.0\elseifheight.genruntimeconfig.cache
+C:\Users\HP\source\repos\elseifheight\obj\Debug\net6.0\ref\elseifheight.dll
